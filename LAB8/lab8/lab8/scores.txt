@@ -1,0 +1,9 @@
+1002;Steve,Rogers;12.5,11.0,14.3
+1008;Bruce,Wayne;16.3,15.5,17.3
+1004;Bruce,Banner;10.4,9.7,10.8
+1001;Tony,Stark;19.5,18.0,16.7
+1006;Peter,Parker;13.6,15.2,12.3
+1003;Clint,Barton;14.5,12.8,12.6
+1009;Tony,Parker;13.7,12.8,15.2
+1007;Natasha,Romanoff;14.5,16.0,17.2
+1005;Nick,Fury;13.8,15.2,17.4

@@ -1,0 +1,11 @@
+Bastia 24.1
+Cannes 20.1      
+Orange 18.2
+Nice 17.9
+Toulon 17.1
+Dinard 16.4
+Angers 16.3
+Evreux 16.6
+Troyes 13
+Limoges 13
+Hyeres 19
